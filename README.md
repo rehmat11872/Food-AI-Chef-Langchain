@@ -24,17 +24,17 @@ To get started with the Food Assistant AI Bot, follow these steps:
    ```bash
    git clone https://github.com/yourusername/food-assistant-ai-bot.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
     ```bash
     cd food-assistant-ai-bot
 
-3.Install the required dependencies:
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
 
 ### Usage
 
-4.To start the bot, run the following command:
+4. To start the bot, run the following command:
     ```bash
     python manage.py runserver
 
